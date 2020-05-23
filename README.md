@@ -4,11 +4,9 @@
 
 
 
-# Introduction
+## Introduction
 
 As a part of the self-driving cars technology, vehicle's perception is a challenging task for the  computer vision field. This project aims to build a computer vision algorithm to detect front and rear car views using the TensorFlow Object Detection API by fine-tuning pre-trained state-of-the-art SSD+Inception V2 Model trained on the COCO dataset.
-
-------
 
 
 
@@ -20,17 +18,21 @@ Davis King’s vehicles dataset to differentiate the front and rear views of the
 
 - ### Training performance
 
-  ![]()
+  ![](https://github.com/FaroukZidane/Vehicle-Detection/raw/master/doc/images/total_loss_ssd_vehicle.png)
 
-  ![]()
+  
 
   
 
 - ### Evaluation
 
-  ![]()
+  ![](https://github.com/FaroukZidane/Vehicle-Detection/raw/master/doc/images/map_50_ssd_vehicle.png)
 
-  ![]()
+  ![](https://github.com/FaroukZidane/Vehicle-Detection/raw/master/doc/images/eval_75k_step_ssd_vehicle.png)
+  
+  
+  
+  ![](https://github.com/FaroukZidane/Vehicle-Detection/raw/master/doc/images/eval_75k_step_ssd_vehicle2.png)
 
 
 
